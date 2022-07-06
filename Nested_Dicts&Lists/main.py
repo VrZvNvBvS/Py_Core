@@ -62,7 +62,7 @@ def iterateDictionary(some_list):
     for person in range(len(some_list)):
         fName = some_list[person]['first_name']
         lName = some_list[person]['last_name']
-        print('first_name -' + fName + ', last_name -' + lName)
+        print('first_name - ' + fName + ', last_name - ' + lName)
         print('\n')
 
 
