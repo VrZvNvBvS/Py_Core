@@ -66,7 +66,8 @@ def iterateDictionary(some_list):
         print('\n')
 
 
-# iterateDictionary(students)
+iterateDictionary(students)
+
 # should output: (it's okay if each key-value pair ends up on 2 separate lines;
 # bonus to get them to appear exactly as below!)
 # first_name - Michael, last_name - Jordan
